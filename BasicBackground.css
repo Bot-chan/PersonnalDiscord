@@ -1,7 +1,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BetterDocsBlock.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ThemeDevBadge.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
-
+.au
 :root {
 	--dtransparencycolor: 0,0,0;
 	--dtransparencyalpha: 0.15;
@@ -1611,7 +1611,7 @@ a.channel-2QD9_O.selected-aXhQR6,
 }
 
 .autocomplete-1vrmpx:after {
-	background: rgba(var(--vtransparencycolor),calc(var(--vtransparencyalpha) * 4));
+	background: rgba(var(--vtransparencycolor),calc(var(--vtransparencyalpha) * 2.5));
 }
 
 .phoneVerificationModal-OzcDc3 .phoneField-38N1bJ {
