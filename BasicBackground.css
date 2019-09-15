@@ -1175,7 +1175,7 @@ a.channel-2QD9_O.selected-aXhQR6,
 
 .unread-1xRYoj,
 .mention-1f5kbO {
-	background: rgba(240,71,71,calc(var(--vtransparencyalpha) * 6)) !important;
+	background: var(--accentcolor),calc(var(--vtransparencyalpha) * 6)) !important;
 }
 
 .item-PXvHYJ[style*="background-color: rgb(114, 137, 218))"] {
