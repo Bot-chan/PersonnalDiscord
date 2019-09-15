@@ -1173,14 +1173,9 @@ a.channel-2QD9_O.selected-aXhQR6,
 	background: rgb(240,71,71) !important;
 }
 
-.unread-1xRYoj {
-    background-color: rgb(var(--accentcolor)) !important);
-    opacity: .9;
-}
-
 .unread-1xRYoj,
 .mention-1f5kbO {
-	background: rgba(240,71,71,calc(var(--vtransparencyalpha) * 6)) !important;
+	background: rgb(var(--vaccentcolor)) !important;
 }
 
 
